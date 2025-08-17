@@ -1,3 +1,4 @@
+# Data Analysis Report and Dashboard with Sales Data
 
 View Dashboard: [SalesDashboard/README.md](https://github.com/Analyst-AL/PowerBI_Dashboards/tree/main/SalesDashboard)
 
