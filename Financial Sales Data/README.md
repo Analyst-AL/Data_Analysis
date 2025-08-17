@@ -1,5 +1,5 @@
 
-View Dashboard: SalesDashboard/README.md
+View Dashboard: [SalesDashboard/README.md](https://github.com/Analyst-AL/PowerBI_Dashboards/tree/main/SalesDashboard)
 
 <img width="1700" height="2200" alt="SalesAnalysisReport-1" src="https://github.com/user-attachments/assets/b8a3daf1-67b0-42f8-afb4-b770bf6ec4ad" />
 <img width="1700" height="2200" alt="SalesAnalysisReport-2" src="https://github.com/user-attachments/assets/c6bcbe1c-8f24-406f-bcdf-1c128d7b7d4b" />
